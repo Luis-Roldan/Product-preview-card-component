@@ -6,14 +6,18 @@
 }
 
 .img-desktop {
-  width: 100px;
+  width: 100%;
 }
 
 
 .right-side {
-  width: auto;
+  width: 300px;
+  padding-left: auto;
+  padding-right: auto;
 }
 
 .left-side {
-  width: auto;
+  width: 300px;
+  padding-left: auto;
+  padding-right: auto;
 }
