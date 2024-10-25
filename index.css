@@ -23,13 +23,13 @@ body {
 
 
 .right-side {
-
+  text-align: start;
   padding-left: auto;
   padding-right: auto;
+  margin: 15px;
 }
 
 .left-side {
-
   padding-left: auto;
   padding-right: auto;
 }
