@@ -19,7 +19,6 @@ body {
 .img-desktop {
   width: 100%;
 
-
 }
 
 
@@ -27,13 +26,12 @@ body {
   text-align: start;
   padding-left: auto;
   padding-right: auto;
-  /* margin: 15px; */
+
   background-color: aqua;
 }
 
 .left-side {
-  padding-left: auto;
-  padding-right: auto;
+
   background-color: red;
 
 }
