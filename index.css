@@ -57,3 +57,9 @@ body {
   font-weight: 700;
   color: #3d8168;
 }
+
+.perfume {
+  font-weight: 300;
+  letter-spacing: 5px;
+  font-size: small;
+}
