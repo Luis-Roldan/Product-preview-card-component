@@ -29,9 +29,12 @@ body {
   text-align: start;
   padding-left: auto;
   padding-right: auto;
-  height: 400px;
-  background-color: aqua;
-  border-radius: 0 10px 10px 0;
+  height: 350px;
+  width: 450px;
+  /* background-color: aqua; */
+  /* border-radius: 0 10px 10px 0; */
+  margin: 25px;
+
 }
 
 .left-side {
@@ -39,7 +42,8 @@ body {
   background-color: red;
   background-image: url("https://res.cloudinary.com/roldan-cloudinary/image/upload/v1729906913/image-product-desktop_c6em2k.jpg");
   background-size: cover;
-  width: 100%;
+  width: 500px;
+
   height: 400px;
   border-radius: 10px 0 0 10px;
 }
