@@ -19,7 +19,7 @@ body {
 .img-desktop {
   width: 100%;
 
-  height: 100%;
+
 }
 
 
@@ -28,9 +28,12 @@ body {
   padding-left: auto;
   padding-right: auto;
   margin: 15px;
+  background-color: aqua;
 }
 
 .left-side {
   padding-left: auto;
   padding-right: auto;
+  background-color: red;
+
 }
