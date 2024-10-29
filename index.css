@@ -68,6 +68,7 @@ body {
 
 .old-price {
   text-decoration: line-through;
+  font-size: small;
 }
 
 .prices {
