@@ -80,3 +80,15 @@ body {
   align-items: center;
   gap: 20px;
 }
+
+.btn {
+  background-color: #3d8168;
+  color: white;
+  display: flex;
+  padding: 10px;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  border-radius: 10px;
+}
