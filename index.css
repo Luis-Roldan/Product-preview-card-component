@@ -110,6 +110,17 @@ header {
   .main {
     display: flex;
     flex-direction: column;
-    width: 100vw;
-  }
+    width: 90vw;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    }
+
+  /* .left-side {
+    background-color: red;
+    background-image: url("https://res.cloudinary.com/roldan-cloudinary/image/upload/v1729906913/image-product-desktop_c6em2k.jpg");
+    background-size: cover;
+    width: 300px;
+    height: 400px;
+    border-radius: 10px 0 0 10px;
+  } */
 }
