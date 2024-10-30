@@ -9,6 +9,10 @@ body {
   gap: 10vh;
 }
 
+header {
+  margin-top: 10vh;
+}
+
 .main {
   display: flex;
   flex-direction: row;
