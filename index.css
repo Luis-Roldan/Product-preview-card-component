@@ -118,9 +118,17 @@ header {
   .left-side {
     background-image: url("https://res.cloudinary.com/roldan-cloudinary/image/upload/v1730329915/image-product-mobile_ehr7zp.jpg");
     background-size: cover;
-    background-position: center; /* Centra la imagen */
+    background-position: center;
     background-repeat: no-repeat;
     width: 100%;
     border-radius: 10px 10px 0 0;
+  }
+
+  .right-side {
+    text-align: start;
+    width: 90%;
+    padding-left: 50px;
+    padding-right: 50px;
+
   }
 }
