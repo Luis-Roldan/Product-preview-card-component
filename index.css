@@ -110,9 +110,9 @@ header {
   .main {
     display: flex;
     flex-direction: column;
-    width: 90vw;
-    margin-left: 5vw;
-    margin-right: 5vw;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
     }
 
   .left-side {
@@ -122,12 +122,16 @@ header {
     background-repeat: no-repeat;
     width: 100%;
     border-radius: 10px 10px 0 0;
+
   }
 
   .right-side {
     text-align: start;
     width: 90%;
-    padding-left: 50px;
-    padding-right: 50px;
   }
+
+  header, footer {
+    padding: 10px;
+  }
+
 }
